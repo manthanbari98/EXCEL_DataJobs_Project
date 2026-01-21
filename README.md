@@ -15,7 +15,7 @@ Develop a data warehouse using SQL Server to consolidate sales data, enabling an
 ### Specifications
 - **Data Sources**: Import data provided as xlxs.
 - **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: combining source tables and creating user friendly data model designed for analytical queries, and using excel add-ins to help forecast trends and data.
+- **Integration**: combining source tables and using excel add-ins(What-if Analysis, Forecast sheet, Solver, Data Analysis) to help forecast trends and creating user friendly data charts.
 
 ### Objectives
 Develop charts to  deliver insights into:
